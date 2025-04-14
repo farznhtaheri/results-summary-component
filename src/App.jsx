@@ -6,7 +6,7 @@ import VisualImg from "./assets/icon-visual.svg";
 
 function App() {
   return (
-    <div className="bg-white md:flex md:h-[90%] md:w-1/2 md:rounded-3xl md:shadow-lg w-full">
+    <div className="bg-white md:flex md:h-[90%] md:w-[720px] md:rounded-3xl md:shadow-lg w-full">
       <div
         className="bg-radial-[at_50%_100%] from-light-royal-blue to-light-slate-blue to-90%
        md:w-1/2 md:rounded-3xl rounded-b-3xl pt-2 pb-10"
